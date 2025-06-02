@@ -1,5 +1,4 @@
 # g1
-Projeto do Grupo 1
 # Projeto Robô Seguidor de Linha
 
 ## 📘 Introdução
