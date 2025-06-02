@@ -1,0 +1,30 @@
+Esqueleto de Classes e Métodos do Projeto
+Classes: Robô, Sensor, Controlador, Motor.
+
+Atributos:
+
+Robô:
+nome: String
+Sensor:
+sensorDeLuz: Booleano (ou um valor que representa a leitura do sensor de luz)
+Controlador:
+controladorDeMovimento: Objeto (representando a lógica de controle de movimento)
+Motor:
+potencia: Double (representando a potência do motor)
+Métodos:
+
+Robô:
+executarPercurso(): Void (método para o robô seguir a linha e completar sua tarefa)
+Sensor:
+identificarPercurso(): Booleano (ou um valor que indica se o percurso foi identificado pelo sensor de luz)
+Controlador:
+controladorDeMovimento(): Objeto (para gerenciar o movimento)
+decidirDirecao(): String (ou um Enum para as direções: "Esquerda", "Direita", "Frente", "Parar")
+Motor:
+aumentarVelocidade(): Void (método para o motor ajustar a velocidade do robô)
+Relações de Herança:
+
+sensorDeLuz é herdado de Sensor.
+potencia é herdado de Motor.
+controladorDeMovimento é herdado de Controlador.
+wall-E (nome) é herdado de Robô (neste caso, "wall-E" seria uma instância de Robô, não uma classe herdada, mas a anotação original indica uma relação de herança para ilustrar a instância).
