@@ -25,12 +25,12 @@ Desenvolver um software em Java que simule um robô seguidor de linha usando pri
 
 |                  Tarefa              | Responsável | Prazo |
 |--------------------------------------|-------------|-------|
-| Modelagem das classes                |             |       |
-| Atributos e métodos                  |             |       |
-| Herança e composição                 |             |       |
-| Diagrama de classes UML              |             |       |
-| Diagrama de sequência e casos de uso |             |       |
-| Implementação inicial                |    Todos    |       |
+| Modelagem das classes                |             | 09/06 |
+| Atributos e métodos                  |             | 09/06 |
+| Herança e composição                 |             | 30/06 |
+| Diagrama de classes UML              |             | 30/06 |
+| Diagrama de sequência e casos de uso |             | 30/06 |
+| Implementação inicial                |    Todos    | 30/06 |
 
 ## 🗂️ Organização
 - Código-fonte: `/src/`
