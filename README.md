@@ -35,7 +35,8 @@ Desenvolver um software em Java que simule um robô seguidor de linha usando pri
 ## 🗂️ Organização
 - Código-fonte: `/src/`
 - Diagramas:
-- ![Diagrama de Classes](https://github.com/poo-ee-2025-1/g1/blob/main/diagramas/diagrama.png?raw=true)
+  
+  ![Diagrama de Classes](https://github.com/poo-ee-2025-1/g1/blob/main/diagramas/diagrama.png?raw=true)
 - Relatórios individuais: `/relatorios/`
 
 ## 🔧 Tecnologias
