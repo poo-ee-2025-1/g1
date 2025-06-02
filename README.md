@@ -23,8 +23,6 @@ Desenvolver um software em Java que simule um robô seguidor de linha usando pri
 
 ## 📌 Divisão de Tarefas
 
-## 📌 Divisão de Tarefas
-
 | Tarefa                               | Responsável | Descrição                                                                                           | Prazo   |
 |--------------------------------------|-------------|---------------------------------------------------------------------------------------------------- |---------|
 | Modelagem das classes                | Maria       | Levantar as classes iniciais do projeto: Robô, Sensor, Motor,<br>Controlador.                       | 09/06   |
