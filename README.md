@@ -27,9 +27,9 @@ Desenvolver um software em Java que simule um robô seguidor de linha usando pri
 | Modelagem das classes                | Maria       | Levantar as classes iniciais do projeto: Robô, Sensor, Motor,<br>Controlador.                       | 09/06   |
 | Atributos e métodos                  | Yasmin      | Identificar os atributos e<br>comportamentos de cada classe.                                        | 09/06   |
 | Herança e composição                 | Maria       | Estruturar relações de herança como SensorDeLuz,<br>Potência e ControladorDeMovimento.              | 16/06   |
-| Diagrama de classes UML              | Yasmin      | Criar o diagrama UML com classes,<br>atributos, métodos e heranças.                                 | 30/06   |
-| Documentação                         | Samuel      | Redigir as seções 1 e 2<br>do relatório.                                                            | 30/06   |
-| Diagrama de sequência e casos de uso | Samuel      | Montar os diagramas de sequência<br>e casos de uso.                                                 | 30/06   |
+| Diagrama de classes UML              | Yasmin      | Criar o diagrama UML com classes,<br>atributos, métodos e heranças.                                 | 16/06   |
+| Documentação                         | Samuel      | Redigir as seções 1 e 2<br>do relatório.                                                            | 09/06   |
+| Diagrama de sequência e casos de uso | Samuel      | Montar os diagramas de sequência<br>e casos de uso.                                                 | 09/06   |
 | Implementação inicial                | Todos       | Iniciar a implementação colaborativa das classes<br>e métodos definidos em Java.                    | 30/06   |
 
 
