@@ -6,3 +6,25 @@ Na data de hoje, contribuí com a parte de documentação do projeto no reposit�
 Também adicionei à documentação o Diagrama de Atividades, previamente elaborado pelo colega Samuel, garantindo que ele estivesse corretamente inserido no repositório e visível no README.
 
 Essas ações contribuíram para o avanço da etapa de planejamento do projeto, garantindo a estruturação inicial exigida pela entrega
+
+📄 Relatório Individual – Yasmin
+🗓️ Data: 08/06/2025
+🛠️ Tarefa: Identificação dos Atributos e Métodos
+
+Na atividade de hoje, desenvolvi a tarefa de identificar os atributos e comportamentos (métodos) das principais classes do projeto.
+
+Uilizei o levantamento inicial de classes do projeto feito pela Maria Fernanda e identifiquei atributos para elas:
+
+Classe Robo: atributos nome, energia e produtosIdentificados; métodos mover(), recarregar(), identificarProduto(int) e getNivelEnergia().
+
+Classe Motor: atributo velocidade; método getVelocidade().
+
+Classe Sensor: método lerSensor().
+
+Classe Controlador: integra as outras classes e contém os métodos executarCiclo() e mostrarStatus() para gerenciar o funcionamento do robô.
+
+Também criei uma classe main de teste chamada SistemaRobo, responsável por instanciar os objetos e simular o funcionamento do robô, exibindo o status da energia e velocidade após um ciclo de operação.
+
+Por fim, organizei os arquivos no formato .zip através do BlueJ, contendo o código-fonte com os atributos e métodos implementados, e preparei o material para ser enviado ao repositório do projeto no GitHub.
+
+Essas ações completam a tarefa atribuída, contribuindo diretamente para a construção da base lógica do sistema.
