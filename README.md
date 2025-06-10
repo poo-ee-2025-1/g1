@@ -41,6 +41,12 @@ Desenvolver um software em Java que simule um robô seguidor de linha usando pri
 - Diagramas:
   
   ![Diagrama de Classes](https://github.com/poo-ee-2025-1/g1/blob/main/diagramas/diagrama.png?raw=true)
+  
+  ## Diagrama de Classes UML
+
+![Diagrama UML]()
+
+  
 - Relatórios individuais: `/relatorios/`
 
 ## 🔧 Tecnologias
