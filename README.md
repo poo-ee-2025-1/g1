@@ -44,7 +44,7 @@ Desenvolver um software em Java que simule um robô seguidor de linha usando pri
   
   ## Diagrama de Classes UML
 
-![Diagrama UML]()
+![Diagrama UML](https://github.com/poo-ee-2025-1/g1/blob/main/diagramas/diagrama%20UML%20das%20classes.png?raw=true)
 
   
 - Relatórios individuais: `/relatorios/`
