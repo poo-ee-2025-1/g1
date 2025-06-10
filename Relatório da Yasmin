@@ -28,3 +28,29 @@ Também criei uma classe main de teste chamada SistemaRobo, responsável por ins
 Por fim, organizei os arquivos no formato .zip através do BlueJ, contendo o código-fonte com os atributos e métodos implementados, e preparei o material para ser enviado ao repositório do projeto no GitHub.
 
 Essas ações completam a tarefa atribuída, contribuindo diretamente para a construção da base lógica do sistema.
+
+📄 Relatório Individual – [Seu Nome]
+🗓️ Data: 10/06/2025
+🛠️ Tarefa: Implementação de Classes Abstratas e Criação de Diagramas UML
+
+Na atividade de hoje, dei continuidade ao desenvolvimento do projeto implementando as classes discutidas na última aula em sala.
+
+Implementei a classe abstrata Mapa, juntamente com duas subclasses concretas: CorredorSimples e CorredorObstaculos, conforme definido na tarefa em grupo. Essas classes foram implementadas com base no conceito de herança e abstração, reforçando a estrutura orientada a objetos do projeto.
+
+Além disso, elaborei o diagrama UML dessas classes, representando as relações de herança e os principais métodos e atributos envolvidos.
+
+Também aproveitei o momento para elaborar os diagramas UML referentes às classes implementadas no relatório individual anterior, incluindo:
+
+Robo
+
+Motor
+
+Sensor
+
+Controlador
+
+Após isso, realizei a integração entre os dois conjuntos de classes – tanto as classes do relatório anterior quanto as do novo módulo de Mapa – em um único diagrama UML geral do sistema. Essa integração permite uma visualização mais completa da arquitetura do projeto até o momento, facilitando futuras expansões e validações.
+
+Com isso, avancei tanto na implementação prática quanto na documentação visual do sistema, o que contribuirá diretamente para o andamento do projeto coletivo.
+
+
