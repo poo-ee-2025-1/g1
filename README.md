@@ -37,6 +37,7 @@ Desenvolver um software em Java que simule um robô seguidor de linha usando pri
 ## 🗂️ Organização
 - Código-fonte: `/src/`
   📦 [Download da tarefa Atributos e métodos (.zip)](atributos_metodos.zip)
+  
   📦 [Download da classe criada em sala Mapa (.zip)](mapaAtacadista.zip)
 
 
@@ -44,7 +45,7 @@ Desenvolver um software em Java que simule um robô seguidor de linha usando pri
   
   ![Diagrama de Classes](https://github.com/poo-ee-2025-1/g1/blob/main/diagramas/diagrama.png?raw=true)
   
-  ## Diagrama de Classes UML
+- Diagrama de Classes UML
 
 ![Diagrama UML](https://github.com/poo-ee-2025-1/g1/blob/main/diagramas/diagrama%20UML%20das%20classes.png?raw=true)
 
