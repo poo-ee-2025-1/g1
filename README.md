@@ -17,6 +17,13 @@ Mesmo em um mapa sem obstáculos, escolher o melhor trajeto manualmente ou de fo
 
 Diante disso, torna-se necessário desenvolver um sistema capaz de calcular automaticamente a menor rota em uma matriz e simular o deslocamento de um robô virtual, aplicando conceitos de POO e lógica computacional para otimizar o trajeto.
 
+## Motivação
+Este projeto foi escolhido como uma forma de consolidar conhecimentos de programação orientada a objetos por meio de um desafio concreto e didático. A ideia de simular um robô que percorre uma matriz seguindo a menor rota até um destino combina lógica computacional, organização de código e clareza na estruturação das classes.
+
+A proposta também desperta interesse por permitir a visualização prática do resultado: o caminho mais eficiente sendo percorrido passo a passo. Isso torna o aprendizado mais envolvente, ao mesmo tempo que desenvolve habilidades úteis para problemas que exigem análise de trajetos, otimização e autonomia de execução.
+
+
+
 ## 🎯 Objetivos
 
 ### Objetivo Geral:
