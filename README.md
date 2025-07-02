@@ -48,35 +48,22 @@ Desenvolver um sistema, utilizando Java e Programação Orientada a Objetos, que
 - Testar e validar o funcionamento correto da rota e da movimentação do robô.
 
 ## Estratégias de Implementação
-# Análise de Requisitos
+### Análise de Requisitos
 Levantar e documentar todos os requisitos funcionais e não funcionais do sistema, como o percurso pelo mapa, definição dos pontos inicial e final, e critérios para cálculo da rota mínima, em colaboração com os envolvidos no projeto.
 
-# Modelagem do Sistema
+### Modelagem do Sistema
 Criar diagramas UML, incluindo diagramas de classes e de sequência, para representar a estrutura do sistema e o fluxo da movimentação do robô.
 
-# Desenvolvimento Modular
+### Desenvolvimento Modular
 Implementar o sistema em módulos, separando a lógica do cálculo da rota, a representação do mapa e a movimentação do robô para facilitar manutenção e testes.
 
-# Testes e Validação
+### Testes e Validação
 Realizar testes unitários e de integração para assegurar que o cálculo da rota mínima está correto e que o robô percorre a matriz conforme esperado.
-## 👥 Integrantes
-- Yasmin
-- Maria Fernanda
-- Samuel
 
 ## 📌 Divisão de Tarefas
-
-| Tarefa                               | Responsável | Descrição                                                                                           | Prazo   |
-|--------------------------------------|-------------|---------------------------------------------------------------------------------------------------- |---------|
-| Modelagem das classes                | Maria       | Levantar as classes iniciais do projeto: Robô, Sensor, Motor,<br>Controlador.                       | 09/06   |
-| Atributos e métodos                  | Yasmin      | Identificar os atributos e<br>comportamentos de cada classe.                                        | 09/06   |
-| Herança e composição                 | Maria       | Estruturar relações de herança como SensorDeLuz,<br>Potência e ControladorDeMovimento.              | 16/06   |
-| Diagrama de classes UML              | Yasmin      | Criar o diagrama UML com classes,<br>atributos, métodos e heranças.                                 | 16/06   |
-| Documentação                         | Samuel      | Redigir as seções 1 e 2<br>do relatório.                                                            | 09/06   |
-| Diagrama de sequência e casos de uso | Samuel      | Montar os diagramas de sequência<br>e casos de uso.                                                 | 09/06   |
-| Implementação inicial                | Todos       | Iniciar a implementação colaborativa das classes<br>e métodos definidos em Java.                    | 30/06   |
-
-
+- Maria Fernanda: Desenvolvedor Backend
+- Samuel Vaz: Desenvolvedor Frontend
+- Yasmin: Analista de Sistemas + Testador
 
 ## 🗂️ Organização
 - Código-fonte: `/src/`
