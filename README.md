@@ -2,7 +2,13 @@
 # Projeto Robô Seguidor de Linha
 
 ## 📘 Introdução
-Este projeto tem como objetivo simular um robô seguidor de linha com sensores, motor e controlador. Desenvolvido na disciplina de Programação Orientada a Objetos (POO), explora conceitos como encapsulamento, herança, composição e abstração.
+O avanço da tecnologia e o crescimento da automação têm impulsionado o desenvolvimento de sistemas inteligentes capazes de tomar decisões autônomas com base em lógica computacional. Entre esses sistemas, destacam-se os robôs móveis programados para executar trajetos definidos de forma eficiente, otimizando tempo e recursos. Este projeto propõe o desenvolvimento de um robô seguidor de linha virtual, utilizando a linguagem de programação Java e os princípios da Programação Orientada a Objetos (POO).
+
+O robô atuará em um ambiente representado por uma matriz bidimensional, onde cada célula indica uma posição válida do mapa. A principal funcionalidade do sistema será permitir que o robô percorra a menor rota possível entre um ponto de partida e um ponto de destino, realizando o trajeto mais curto disponível. A rota será gerada por meio de algoritmos de caminho mínimo, com o objetivo de minimizar a quantidade de movimentos necessários para alcançar o destino.
+
+O foco do projeto está na simulação lógica do deslocamento do robô sobre o mapa, utilizando estruturas de dados adequadas, algoritmos de busca e técnicas de modelagem orientada a objetos. A movimentação será feita passo a passo, respeitando as coordenadas da matriz e seguindo uma sequência previamente calculada com base na menor distância.
+
+Este projeto oferece uma oportunidade prática de aplicar conceitos fundamentais de POO, como encapsulamento, herança e abstração, ao mesmo tempo em que introduz os alunos à resolução de problemas computacionais relacionados a rotas e otimização. Ao simular um robô capaz de analisar o mapa e escolher automaticamente o melhor caminho, busca-se desenvolver uma solução eficiente, clara e funcional para um desafio comum em áreas como logística e automação.
 
 ## 🎯 Objetivos
 
