@@ -27,14 +27,26 @@ A proposta também desperta interesse por permitir a visualização prática do 
 ## 🎯 Objetivos
 
 ### Objetivo Geral:
-Desenvolver um software em Java que simule um robô seguidor de linha usando princípios da POO.
+Desenvolver um sistema, utilizando Java e Programação Orientada a Objetos, que simule o deslocamento de um robô virtual sobre um mapa representado por uma matriz, permitindo que ele encontre e percorra automaticamente a menor rota possível até um ponto de destino.
+
 
 ### Objetivos Específicos:
-- Modelar o sistema com diagramas UML (classes, sequência, caso de uso);
-- Implementar as classes em Java;
-- Usar GitHub para versionamento e organização;
-- Trabalhar de forma colaborativa com divisão de tarefas.
+- Representar o mapa do ambiente por meio de uma matriz bidimensional.
 
+- Definir posições inicial e final do percurso a ser realizado pelo robô.
+
+- Implementar um algoritmo que calcule a menor rota possível entre os dois pontos.
+
+- Criar uma classe Robo que percorra a matriz seguindo a rota calculada.
+
+- Simular o deslocamento do robô, atualizando sua posição a cada movimento.
+
+- Aplicar os conceitos de Programação Orientada a Objetos, como encapsulamento, herança e abstração, na estrutura do sistema.
+
+- Organizar o projeto com diagramas UML, como diagrama de classes e de sequência.
+
+- Testar e validar o funcionamento correto da rota e da movimentação do robô.
+- 
 ## 👥 Integrantes
 - Yasmin
 - Maria Fernanda
