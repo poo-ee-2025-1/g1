@@ -46,7 +46,19 @@ Desenvolver um sistema, utilizando Java e Programação Orientada a Objetos, que
 - Organizar o projeto com diagramas UML, como diagrama de classes e de sequência.
 
 - Testar e validar o funcionamento correto da rota e da movimentação do robô.
-- 
+
+## Estratégias de Implementação
+# Análise de Requisitos
+Levantar e documentar todos os requisitos funcionais e não funcionais do sistema, como o percurso pelo mapa, definição dos pontos inicial e final, e critérios para cálculo da rota mínima, em colaboração com os envolvidos no projeto.
+
+# Modelagem do Sistema
+Criar diagramas UML, incluindo diagramas de classes e de sequência, para representar a estrutura do sistema e o fluxo da movimentação do robô.
+
+# Desenvolvimento Modular
+Implementar o sistema em módulos, separando a lógica do cálculo da rota, a representação do mapa e a movimentação do robô para facilitar manutenção e testes.
+
+# Testes e Validação
+Realizar testes unitários e de integração para assegurar que o cálculo da rota mínima está correto e que o robô percorre a matriz conforme esperado.
 ## 👥 Integrantes
 - Yasmin
 - Maria Fernanda
