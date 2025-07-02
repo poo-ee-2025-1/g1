@@ -68,34 +68,34 @@ Realizar testes unitários e de integração para assegurar que o cálculo da ro
 ## 🗂️ Organização
 - Código-fonte: `/src/`
   
-  📦 [Download da tarefa Atributos e métodos (.zip)](atributos_metodos.zip)
+  📦 [Download da matriz (.zip)]()
   
-  📦 [Download da classe criada em sala Mapa (.zip)](mapaAtacadista.zip)
+  📦 [Download da classe robo (.zip)]()
 
 
 - Diagramas:
   
-  ![Diagrama de Classes](https://github.com/poo-ee-2025-1/g1/blob/main/diagramas/diagrama.png?raw=true)
+  ![Diagrama de Classes]()
   
 - Diagrama de Classes UML
 
-![Diagrama UML](https://github.com/poo-ee-2025-1/g1/blob/main/diagramas/diagrama%20UML%20das%20classes.png?raw=true)
+![Diagrama UML]()
 
   
 - Relatórios individuais: `/relatorios/`
 
 ## 🛠️ Instruções de Instalação e Execução
-# ✅ Instalação da IDE
+### ✅ Instalação da IDE
 Recomenda-se o uso da IDE BlueJ, utilizada no desenvolvimento deste projeto.
 
 Site oficial para download: [Baixar BlueJ](https://www.bluej.org)
 
-# ✅ Instalação do Java
+### ✅ Instalação do Java
 Recomenda-se a instalação da versão Java 21.0.2 (Java SE Development Kit).
 
 Site oficial para download: [Baixar Java 21.0.2](https://www.oracle.com/java/technologies/javase-downloads.html)
 
-# ✅ Instalação do StarUML (opcional para visualização de diagramas)
+### ✅ Instalação do StarUML (opcional para visualização de diagramas)
 O software StarUML é indicado para abrir os arquivos .mdj com os diagramas de classes, de sequência e de caso de uso incluídos no projeto.
 
 Download: [Baixar StarUML](https://staruml.io)
