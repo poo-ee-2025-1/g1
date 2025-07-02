@@ -84,8 +84,31 @@ Realizar testes unitários e de integração para assegurar que o cálculo da ro
   
 - Relatórios individuais: `/relatorios/`
 
-## 🔧 Tecnologias
-- Java
-- Git & GitHub
-- UML (Draw.io)
-- BlueJ / VS Code
+## 🛠️ Instruções de Instalação e Execução
+# ✅ Instalação da IDE
+Recomenda-se o uso da IDE BlueJ, utilizada no desenvolvimento deste projeto.
+
+Site oficial para download: [Baixar BlueJ](https://www.bluej.org)
+
+# ✅ Instalação do Java
+Recomenda-se a instalação da versão Java 21.0.2 (Java SE Development Kit).
+
+Site oficial para download: [Baixar Java 21.0.2](https://www.oracle.com/java/technologies/javase-downloads.html)
+
+# ✅ Instalação do StarUML (opcional para visualização de diagramas)
+O software StarUML é indicado para abrir os arquivos .mdj com os diagramas de classes, de sequência e de caso de uso incluídos no projeto.
+
+Download: [Baixar StarUML](https://staruml.io)
+
+## ▶️ Execução do Projeto
+- Certifique-se de que o Java e o BlueJ estão corretamente instalados.
+
+- Abra a IDE BlueJ.
+
+- No menu, clique em “Projeto” → “Abrir Projeto…” e selecione a pasta do projeto.
+
+- Com o projeto carregado, clique com o botão direito na classe MainJavaFX.
+
+- Selecione a opção “Executar aplicação JavaFX”.
+
+- A simulação será iniciada, exibindo o deslocamento do robô na matriz.
