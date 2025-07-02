@@ -10,6 +10,13 @@ O foco do projeto está na simulação lógica do deslocamento do robô sobre o 
 
 Este projeto oferece uma oportunidade prática de aplicar conceitos fundamentais de POO, como encapsulamento, herança e abstração, ao mesmo tempo em que introduz os alunos à resolução de problemas computacionais relacionados a rotas e otimização. Ao simular um robô capaz de analisar o mapa e escolher automaticamente o melhor caminho, busca-se desenvolver uma solução eficiente, clara e funcional para um desafio comum em áreas como logística e automação.
 
+## Descrição do Problema
+Encontrar o caminho mais curto entre dois pontos dentro de um ambiente é um desafio comum em sistemas de automação e logística. Quando esse ambiente é representado por uma matriz, a ausência de um algoritmo eficiente pode levar à escolha de trajetos mais longos, resultando em desperdício de tempo e recursos.
+
+Mesmo em um mapa sem obstáculos, escolher o melhor trajeto manualmente ou de forma aleatória não garante a eficiência do percurso. Além disso, a falta de estruturação orientada a objetos dificulta a organização do código e a reutilização de componentes.
+
+Diante disso, torna-se necessário desenvolver um sistema capaz de calcular automaticamente a menor rota em uma matriz e simular o deslocamento de um robô virtual, aplicando conceitos de POO e lógica computacional para otimizar o trajeto.
+
 ## 🎯 Objetivos
 
 ### Objetivo Geral:
