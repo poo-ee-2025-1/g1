@@ -68,10 +68,7 @@ Realizar testes unitários e de integração para assegurar que o cálculo da ro
 ## 🗂️ Organização
 - Código-fonte: `/src/`
   
-  📦 [matriz (.zip)]()
-  
-  📦 [robo (.zip)]()
-
+  📦 [Projeto Robo (.zip)](codigo-fonte/ProjetoRoboFinal.zip)
 
 - Diagramas:
   
@@ -94,11 +91,6 @@ Site oficial para download: [Baixar BlueJ](https://www.bluej.org)
 Recomenda-se a instalação da versão Java 21.0.2 (Java SE Development Kit).
 
 Site oficial para download: [Baixar Java 21.0.2](https://www.oracle.com/java/technologies/javase-downloads.html)
-
-### ✅ Instalação do StarUML (opcional para visualização de diagramas)
-O software StarUML é indicado para abrir os arquivos .mdj com os diagramas de classes, de sequência e de caso de uso incluídos no projeto.
-
-Download: [Baixar StarUML](https://staruml.io)
 
 ## ▶️ Execução do Projeto
 - Certifique-se de que o Java e o BlueJ estão corretamente instalados.
