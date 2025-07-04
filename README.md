@@ -72,7 +72,7 @@ Realizar testes unitários e de integração para assegurar que o cálculo da ro
 
 - Diagramas:
   
- ![Diagrama de Classes]()
+ ![Diagrama Casos de Uso](https://github.com/poo-ee-2025-1/g1/blob/main/diagramas/casos%20de%20uso.png?raw=true)
   
 - Diagrama de Classes UML
 
