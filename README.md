@@ -70,11 +70,11 @@ Realizar testes unitários e de integração para assegurar que o cálculo da ro
   
   📦 [Projeto Robo (.zip)](codigo-fonte/ProjetoRoboFinal.zip)
 
-- Diagramas:
+- Diagrama Casos de Uso:
   
  ![Diagrama Casos de Uso](https://github.com/poo-ee-2025-1/g1/blob/main/diagramas/casos%20de%20uso.png?raw=true)
   
-- Diagrama de Classes UML
+- Diagrama de Classes UML:
 
  ![Diagrama UML](https://github.com/poo-ee-2025-1/g1/blob/main/diagramas/diagrama%20de%20classes%20projeto%20robo.png?raw=true)
 
@@ -99,8 +99,10 @@ Site oficial para download: [Baixar Java 21.0.2](https://www.oracle.com/java/tec
 
 - No menu, clique em “Projeto” → “Abrir Projeto…” e selecione a pasta do projeto.
 
-- Com o projeto carregado, clique com o botão direito na classe MainJavaFX.
+- Com o projeto carregado, abra o pacote "planejamento" e clique com o botão direto na classe main "PlanejadorRotas".
 
-- Selecione a opção “Executar aplicação JavaFX”.
+- Selecione a opção “void main(String[] args)”.
 
-- A simulação será iniciada, exibindo o deslocamento do robô na matriz.
+- Escolha e digite o número da prateleira e do item que o robo deve pegar.
+
+- A simulação será iniciada, exibindo o deslocamento do robô na matriz com os números selecionados na aba do Simulador Visual do Robô.
