@@ -79,7 +79,7 @@ Realizar testes unitários e de integração para assegurar que o cálculo da ro
   
 - Diagrama de Classes UML
 
- ![Diagrama UML]()
+ ![Diagrama UML](diagramas/diagrama de classes projeto robo.png)
 
   
 - Relatórios individuais: `/relatorios/`
