@@ -1,4 +1,4 @@
-Relatório 
+Relatório - Maria Fernanda
 
 02/06/2025
 Como líder do time, realizei a revisão geral das atividades desenvolvidas até o momento, corrigi textos e ajustes na documentação. Auxiliei cada integrante na atribuição das funções e prazos, além de 
@@ -13,4 +13,16 @@ Aprimorei a modelagem das classes, revisando atributos, métodos e aplicando cor
 
 18/06/2025
 Anexei a modelagem final das classes no repositório do GitHub do grupo, garantindo que o material estivesse disponível para os demais integrantes darem continuidade nas implementações.
+
+19/06/2025
+Implementei as heranças e atributos do projeto, com base na modelagem previamente definida. Esse processo foi essencial para estruturar o comportamento dos elementos principais e garantir uma base sólida para o desenvolvimento do código.
+
+29/06/2025
+Realizei aprimoramentos no código, adaptando-o para suportar quatro robôs, com a inclusão de obstáculos e um cenário com corredor simples. 
+
+30/06/2025
+Participamos de uma reunião com o professor, que resultou em mudanças significativas: o projeto precisou ser refeito do zero, e as atribuições de cada integrante foram reorganizadas. Essa redefinição exigiu rápida adaptação da equipe e novo planejamento das entregas pelo prazo curto.
+
+01/07/2025
+Desenvolvi um código quase completo, contendo mapa e lógica do robô, antes da redefinição de funções do grupo. Foi me designado o desenvolvimento do mapa e do algoritmo de caminho, redirecionei meu foco para aprimorar essa parte do projeto, garantindo eficiência e clareza no código.
 
