@@ -79,7 +79,7 @@ Realizar testes unitários e de integração para assegurar que o cálculo da ro
  ![Diagrama UML](https://github.com/poo-ee-2025-1/g1/blob/main/diagramas/diagrama%20de%20classes%20projeto%20robo.png?raw=true)
 
   
-- Relatórios individuais: [relatórios](./relatorios)
+- Relatórios individuais: [relatórios](./relatórios)
 
 ## 🛠️ Instruções de Instalação e Execução
 ### ✅ Instalação da IDE
