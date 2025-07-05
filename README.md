@@ -61,6 +61,13 @@ Implementar o sistema em módulos, separando a lógica do cálculo da rota, a re
 Realizar testes unitários e de integração para assegurar que o cálculo da rota mínima está correto e que o robô percorre a matriz conforme esperado.
 
 ## 📌 Divisão de Tarefas
+
+| Função                          | Pessoa            | Prazo   |
+|---------------------------------|-------------------|---------|
+| Desenvolvedor Backend           | Maria Fernanda    | 04/07   |
+| Desenvolvedor Frontend          | Samuel Vaz        | 04/07   |
+| Analista de Sistemas + Testador | Yasmin            | 04/07   |
+
 - Maria Fernanda: Desenvolvedor Backend
 - Samuel Vaz: Desenvolvedor Frontend
 - Yasmin: Analista de Sistemas + Testador
