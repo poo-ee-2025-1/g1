@@ -1,9 +1,13 @@
-Relatório - Maria Fernanda
+Relatório Individual- Maria Fernanda
 
+##1. Atribuição de Cargo e Tarefas
+Como líder do grupo, fui inicialmente responsável por organizar o andamento do projeto, distribuir funções entre os membros, definir prazos e acompanhar o progresso geral. Escolhi, para mim, as funções relacionadas à modelagem das classes e ao uso dos conceitos de herança e composição.
+
+Após a reformulação do projeto (decidida na reunião com o professor no dia 30/06), minhas funções foram realocadas. Fiquei então encarregada de desenvolver o mapa e o algoritmo de caminho mínimo. Além disso, também assumi a responsabilidade de compilar e enviar o projeto final completo pela plataforma Turing.
+
+##2. Contribuição de Acordo com a Atribuição
 02/06/2025
-Como líder do time, realizei a revisão geral das atividades desenvolvidas até o momento, corrigi textos e ajustes na documentação. Auxiliei cada integrante na atribuição das funções e prazos, além de 
-escolher minhas funções (Modelagem das classes e Herança e composição), garantindo que todos tivessem clareza sobre suas responsabilidades. Também ajudei a organizei as tarefas previstas para hoje, 
-acompanhando a execução e alinhando o andamento do projeto com o cronograma definido.
+Como líder do time, realizei a revisão geral das atividades desenvolvidas até o momento, corrigi textos e ajustes na documentação. Auxiliei cada integrante na atribuição das funções e prazos, além de escolher minhas funções (Modelagem das classes e Herança e composição), garantindo que todos tivessem clareza sobre suas responsabilidades. Também ajudei a organizei as tarefas previstas para hoje, acompanhando a execução e alinhando o andamento do projeto com o cronograma definido.
 
 08/06/2025
 Realizei a modelagem inicial das classes, definindo suas responsabilidades e os relacionamentos principais, com base nos requisitos do projeto.
@@ -30,6 +34,40 @@ Desenvolvi um código quase completo, contendo mapa e lógica do robô, antes da
 Durante esses dois dias, realizei junto com Yasmin e Samuel o estudo e treinamento necessário para elaborar o vídeo final de apresentação do projeto. Cada integrante ficou responsável por gravar individualmente a sua parte, abordando as respectivas funções atribuídas. Após as gravações, reunimos os três vídeos em uma única apresentação final. 
 Como líder do grupo, também fiquei responsável por enviar o projeto final completo pela plataforma Turing, assegurando que toda a documentação, código e material audiovisual estivessem devidamente organizados e entregues dentro do prazo. Embora melhorias pudessem ter sido feitas em diversos aspectos do projeto, o curto prazo disponível limitou a possibilidade de ajustes mais aprofundados.
 
-Durante as aulas e o desenvolvimento em grupo, consegui evoluir bastante em várias áreas importantes. Aprendi a utilizar melhor ferramentas como GitHub, VS Code e BlueJ, que foram essenciais para organizar o código e colaborar com o time. Estudei Java pela primeira vez, conseguindo criar classes, métodos e estruturas ao longo da disciplina.Também consegui montar diagramas UML básicos.
+📌 Commits mais relevantes no GitHub:
+- modelagem-classes – Upload da estrutura base do sistema com comentários de função. (Foi deletada e redefinida)
 
-Foi uma experiência completa que me fez crescer tanto tecnicamente quanto no trabalho em equipe.
+- implementacao-heranca-atributos – Aplicação de herança em classes principais. (Foi deletada e redefinida)
+
+- matriz – Criação da classe Mapa e lógica do algoritmo de caminho.
+
+❌ O que não foi possível cumprir
+- Algumas melhorias no código e testes mais detalhados foram comprometidos pelo curto tempo após a reformulação do projeto. Com prazos apertados, tivemos que priorizar funcionalidades básicas funcionando.
+
+⚠️ Principais dificuldades
+- Adaptação rápida após a mudança total do projeto em 30/06.
+
+- Aprofundamento em Java, que foi uma linguagem nova para mim.
+
+- Gerenciar o tempo entre liderança, minhas atribuições e gravação do vídeo final.
+
+
+##3. Contribuição Além do Atribuído
+- Contribuí com parte do código do robô visual, inicialmente designado ao Samuel, o que ajudou a adiantar a integração com o restante do sistema.
+
+- Também colaborei com a classe Ponto, trabalhando na lógica base para seu funcionamento. Posteriormente, essa classe foi aprimorada pelo Samuel.
+
+- Realizei algumas alterações no README do GitHub, ajustando a explicação do projeto e melhorando a organização do conteúdo apresentado.
+
+
+##4. Considerações Gerais
+Durante as aulas e o desenvolvimento do projeto, consegui evoluir bastante em várias áreas importantes:
+
+- Aprendi a utilizar ferramentas como Git, GitHub, VS Code e BlueJ, que foram essenciais para organização e versionamento do projeto.
+
+- Tive meu primeiro contato com Java, e consegui criar classes, métodos e estruturas ao longo da disciplina.
+
+- Desenvolvi diagramas UML básicos.
+
+Foi uma experiência completa, onde cresci tanto profissionalmente quanto no trabalho em equipe. Como trabalho futuro, acredito que o projeto ainda poderia ser expandido com novas funcionalidades, mais testes e uma interface mais refinada, caso tivéssemos mais tempo disponível.
+
