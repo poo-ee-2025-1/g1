@@ -1,23 +1,63 @@
-Relatório de Desenvolvimento do Robô de Controle de Estoque
-Este relatório detalha o progresso e a divisão de responsabilidades da equipe no desenvolvimento do robô de controle de estoque, com foco nas contribuições individuais e na integração do trabalho.
-________________________________________
-Visão Geral do Projeto e Equipe
-O projeto visa desenvolver um robô automatizado para gerenciar e controlar o estoque de forma eficiente. A equipe de desenvolvimento foi composta por três membros principais, cada um com responsabilidades bem definidas, garantindo uma abordagem modular e colaborativa:
-•	Yasmin: Atributos e Métodos de Classe, Diagrama UML.
-•	Maria: Classes Principais e Herança.
-•	Samuel: Diagramas de Caso de Uso, Justificativas, Auxílio na Codificação e Processos de Outras Etapas.
-________________________________________
-Contribuição Individual e Trabalho em Equipe
-Yasmin: Atributos, Métodos e Diagrama UML
-Yasmin foi responsável pela definição dos atributos e métodos essenciais para as classes do sistema. Isso envolveu a identificação das características (dados) que cada objeto do estoque precisaria ter e as ações (funções) que poderiam ser realizadas sobre esses objetos. Por exemplo, na classe Produto, Yasmin definiria atributos como id_produto, nome, quantidade e métodos como atualizar_quantidade e exibir_informacoes.
-Além disso, Yasmin elaborou o Diagrama UML (Linguagem de Modelagem Unificada). Este diagrama é crucial para visualizar a estrutura do sistema, mostrando as classes, seus atributos e métodos, e as relações entre elas (como herança e associação). O UML de Yasmin serviu como um "mapa" visual, orientando a equipe na implementação e garantindo que todos tivessem uma compreensão clara da arquitetura do software.
-Maria: Classes Principais e Herança
-Maria teve a responsabilidade central de projetar e implementar as classes principais do sistema, como a classe abstrata Produto, que serve como base para todos os itens do estoque. Sua expertise em Herança foi fundamental para estender essa classe abstrata em subclasses concretas, como ProdutoSimples e ProdutoComLote, conforme exemplificado na etapa anterior.
-O trabalho de Maria garantiu que o sistema seguisse os princípios da Programação Orientada a Objetos (POO), promovendo a reutilização de código e a modularidade. A herança permite que características e comportamentos comuns sejam definidos uma vez na classe pai e automaticamente herdados pelas classes filhas, simplificando o desenvolvimento e a manutenção.
-Samuel: Diagramas de Caso de Uso, Justificativas e Auxílio na Codificação
-Minha parte no projeto focou na compreensão e representação das interações do usuário com o robô e na garantia da coerência e funcionalidade do código.
-1.	Diagramas de Caso de Uso: Desenvolvi os Diagramas de Caso de Uso, que mapeiam as funcionalidades do sistema sob a perspectiva do usuário (ou ator, no caso, o robô ou um operador humano interagindo com ele). Isso incluiu identificar:
-o	Atores: Quem interage com o sistema (e.g., o "Robô de Estoque", o "Gerente de Estoque").
-o	Casos de Uso: As tarefas que o robô ou o ator pode realizar (e.g., "Adicionar Produto", "Remover Produto", "Atualizar Quantidade", "Gerar Relatório de Estoque"). Esses diagramas foram essenciais para definir o escopo funcional do projeto e garantir que todas as necessidades do usuário fossem contempladas.
-2.	Justificativas: Forneci as justificativas para as escolhas de design e implementação. Isso incluiu explicar por que certas abordagens de POO foram adotadas (como a criação de classes abstratas e a utilização de polimorfismo para o método atualizar_quantidade), os benefícios dessas escolhas (reutilização, extensibilidade) e como elas contribuem para a robustez do sistema.
-3.	Auxílio na Codificação: Irei atuar também auxílio à codificação, revisando o código desenvolvido por Maria (classes e herança) e Yasmin (atributos e métodos).
+Etapa 1 - Modelagem e Planejamento
+
+Atribuição de tarefas
+
+Na Etapa 1 do projeto, fui responsável por contribuir com a modelagem geral e a documentação inicial. Trabalhei junto com a equipe na criação dos diagramas UML iniciais, especialmente os diagramas de classes e de caso de uso. Também auxiliei na organização das tarefas no plano do projeto e na definição das responsabilidades de cada membro.
+
+Contribuições principais
+
+Participei da definição das classes principais: Robô, Sensor, Motor, Controlador, Mapa.
+
+Colaborei com a elaboração do Diagrama de Classes UML.
+
+Redigi partes da documentação de introdução e objetivos no README.md.
+
+Ajudei a definir e organizar os pacotes do projeto (robo, ponto, matriz, etc).
+
+Etapa 2 - Implementação da Lógica e Visualização
+
+Atribuição de cargo e tarefas
+
+Na Etapa 2, atuei como desenvolvedor front-end do projeto Robô Estoquista, sendo responsável pela simulação visual e lógica da movimentação do robô. Minhas tarefas incluíram:
+
+Criação da classe Ponto para representação de coordenadas.
+
+Desenvolvimento da classe Robo para movimentação no console.
+
+Implementação da interface gráfica em JavaFX na classe RoboVisual.
+
+Integração com o mapa da classe MapaEstoque.
+
+Contribuições principais
+
+Ponto.java: Classe auxiliar com atributos x e y. Implementei os métodos equals, hashCode e toString, fundamentais para manipulação das posições na rota.
+
+Robo.java: Classe com lógica de movimentação no console, com os métodos moverPara... e seguirCaminho. Utilizei Thread.sleep para simular o movimento passo a passo.
+
+RoboVisual.java: Simulação visual com JavaFX, usando GridPane para representar o mapa. Usei Platform.runLater para atualizações visuais a cada passo da rota.
+
+Integração com MapaEstoque: A simulação foi conectada à estrutura do mapa com obstáculos definidos em matriz.
+
+Commits principais:
+
+add-classe-ponto
+
+cria-logica-robo-console
+
+interface-javafx-robovisual
+
+Contribuição adicional
+
+Ajudei colegas a integrarem suas rotas com a simulação visual.
+
+Auxiliei na documentação dos diagramas UML e estrutura do projeto.
+
+Sugeri melhorias na modularização de pacotes e estrutura dos códigos.
+
+Testei a aplicação em diferentes ambientes (BlueJ, VS Code).
+
+Considerações gerais
+
+Durante as duas etapas, aprendi a usar ferramentas como GitHub, JavaFX, e organizei o projeto com base em boas práticas de orientação a objetos. Aprimorei meu conhecimento em modelagem, pacotes, e separação de responsabilidades dentro de um sistema.
+
+Conclusão: considero que minha contribuição foi essencial para garantir tanto a visualização quanto a estrutura da lógica do robô. Entreguei códigos modulares, funcionais e uma interface clara que conecta o comportamento do robô com o usuário.
