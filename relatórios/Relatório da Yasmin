@@ -1,56 +1,58 @@
-📄 Relatório Individual – Yasmin
-🗓️ Data: 02/06/2025
+# Relatório Individual – Yasmin Rodrigues
 
-Na data de hoje, contribuí com a parte de documentação do projeto no repositório do grupo. Escrevi e organizei as seções de introdução, objetivos gerais e específicos e divisão de tarefas, inserindo as informações de forma clara no arquivo README.md.
+## 1. Atribuição de Cargo e Tarefas
 
-Também adicionei à documentação o Diagrama de Atividades, previamente elaborado pelo colega Samuel, garantindo que ele estivesse corretamente inserido no repositório e visível no README.
+Durante o desenvolvimento do projeto, fui responsável por atuar como **analista de sistemas** e **testadora**. Inicialmente, participei das atividades em sala propostas pelo professor, contribuindo com a organização da estrutura lógica do sistema e levantando aspectos fundamentais que auxiliaram na implementação final do projeto.
 
-Essas ações contribuíram para o avanço da etapa de planejamento do projeto, garantindo a estruturação inicial exigida pela entrega
+Com a reformulação geral do projeto no dia 30/06, minhas funções foram reorganizadas. Assumi então as seguintes responsabilidades práticas:
+- Realizar testes e validações do código final;
+- Integrar os códigos desenvolvidos pelos colegas Maria Fernanda (back-end) e Samuel (front-end);
+- Organizar as classes em pacotes coerentes, estabelecendo a hierarquia e a herança entre elas;
+- Produzir o **README completo**, com instruções claras de instalação, execução e uso do sistema;
+- Criar o **diagrama UML de classes**, representando fielmente os pacotes, classes, atributos e métodos do projeto;
+- Apresentar essa parte na **apresentação final** do grupo.
 
-📄 Relatório Individual – Yasmin
-🗓️ Data: 08/06/2025
-🛠️ Tarefa: Identificação dos Atributos e Métodos
+## 2. Contribuição de Acordo com a Atribuição
 
-Na atividade de hoje, desenvolvi a tarefa de identificar os atributos e comportamentos (métodos) das principais classes do projeto.
+Entre os dias 01 e 05 de julho, atuei diretamente na **fase final e crítica** do projeto, garantindo sua organização e funcionamento:
 
-Uilizei o levantamento inicial de classes do projeto feito pela Maria Fernanda e identifiquei atributos para elas:
+- **Integração e ajustes finais** no código no ambiente BlueJ, resolvendo conflitos de nomenclatura, instâncias e dependências entre os códigos back-end e front-end;
+- **Reorganização da estrutura em pacotes**, aplicando herança corretamente e distribuindo as classes de maneira coesa;
+- **Criação do README completo**, com explicações sobre o objetivo do projeto, instruções de instalação, como executar o programa e visão geral do sistema;
+- **Testes de funcionamento do sistema completo**, verificando se o robô seguia corretamente o caminho ótimo na matriz com obstáculos;
+- **Criação do diagrama de classes UML**, utilizando ferramentas de modelagem, com todos os pacotes e classes atualizados;
+- **Apresentação da documentação técnica e arquitetura do sistema** na gravação final.
 
-Classe Robo: atributos nome, energia e produtosIdentificados; métodos mover(), recarregar(), identificarProduto(int) e getNivelEnergia().
+📌 **Commits relevantes:**
+- `ajuste-integracao-bluej`: ajustes finais no projeto, integração dos módulos.
+- `estrutura-readme-final`: upload do README completo com instruções e diagrama.
+- `uml-diagrama-classe`: diagrama de classes com todos os pacotes e relações.
 
-Classe Motor: atributo velocidade; método getVelocidade().
+❌ **O que não foi possível cumprir:**
+- Não desenvolvi código Java novo (métodos ou classes), pois minha responsabilidade foi organizar, integrar e validar a parte já implementada.
 
-Classe Sensor: método lerSensor().
+⚠️ **Principais dificuldades:**
+- Adaptação rápida à reformulação do projeto em prazo curto;
+- Resolver conflitos de estrutura entre dois códigos separados;
+- Garantir o funcionamento de todo o sistema com tempo limitado para testes.
 
-Classe Controlador: integra as outras classes e contém os métodos executarCiclo() e mostrarStatus() para gerenciar o funcionamento do robô.
+## 3. Contribuição Além do Atribuído
 
-Também criei uma classe main de teste chamada SistemaRobo, responsável por instanciar os objetos e simular o funcionamento do robô, exibindo o status da energia e velocidade após um ciclo de operação.
+- **Centralizei a organização do projeto no repositório GitHub**, reunindo os arquivos do grupo, organizando as pastas (`relatórios`, `codigo-fonte`) e mantendo a documentação clara;
+- Colaborei com todos os colegas, especialmente na **padronização dos nomes de classes e pacotes**, para manter a consistência e facilitar a leitura do código;
+- Dei suporte técnico aos colegas para garantir que os testes funcionassem no ambiente BlueJ;
+- Também ajudei a editar e revisar os vídeos da apresentação final, com foco na coesão visual do material.
 
-Por fim, organizei os arquivos no formato .zip através do BlueJ, contendo o código-fonte com os atributos e métodos implementados, e preparei o material para ser enviado ao repositório do projeto no GitHub.
+## 4. Considerações Gerais
 
-Essas ações completam a tarefa atribuída, contribuindo diretamente para a construção da base lógica do sistema.
+Esse projeto foi essencial para meu desenvolvimento como futura engenheira. Consegui aplicar conhecimentos técnicos em:
 
-📄 Relatório Individual – [Seu Nome]
-🗓️ Data: 10/06/2025
-🛠️ Tarefa: Implementação de Classes Abstratas e Criação de Diagramas UML
+- **Git, GitHub, BlueJ e Markdown**;
+- **Documentação técnica** e organização de projetos em grupo;
+- **Modelagem de sistemas orientados a objetos**, especialmente no diagrama UML;
+- **Análise e testes de sistemas**, verificando integração entre módulos;
+- **Comunicação e colaboração**, respeitando os prazos e contribuindo para o sucesso do grupo.
 
-Na atividade de hoje, dei continuidade ao desenvolvimento do projeto implementando as classes discutidas na última aula em sala.
+Apesar do prazo apertado, conseguimos entregar um projeto funcional, documentado e organizado. Se houvesse mais tempo, implementaríamos novas funcionalidades e mais interações visuais. Ainda assim, estou satisfeita com o resultado final e principalmente com minha evolução pessoal e técnica ao longo da disciplina.
 
-Implementei a classe abstrata Mapa, juntamente com duas subclasses concretas: CorredorSimples e CorredorObstaculos, conforme definido na tarefa em grupo. Essas classes foram implementadas com base no conceito de herança e abstração, reforçando a estrutura orientada a objetos do projeto.
-
-Além disso, elaborei o diagrama UML dessas classes, representando as relações de herança e os principais métodos e atributos envolvidos.
-
-Também aproveitei o momento para elaborar os diagramas UML referentes às classes implementadas no relatório individual anterior, incluindo:
-
-Robo
-
-Motor
-
-Sensor
-
-Controlador
-
-Após isso, realizei a integração entre os dois conjuntos de classes – tanto as classes do relatório anterior quanto as do novo módulo de Mapa – em um único diagrama UML geral do sistema. Essa integração permite uma visualização mais completa da arquitetura do projeto até o momento, facilitando futuras expansões e validações.
-
-Com isso, avancei tanto na implementação prática quanto na documentação visual do sistema, o que contribuirá diretamente para o andamento do projeto coletivo.
-
-
+---
